@@ -1,0 +1,18 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Ping pong table</title>
+ <g>
+  <title>Layer 1</title>
+
+  <rect id="svg_2" height="389.999995" width="250.000005" y="51.000003" x="184.999995" stroke-width="5" stroke="#000000" fill="#007fff"/>
+  <line id="svg_6" y2="419.000007" x2="205" y1="68" x1="203" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_7" y2="421.500015" x2="413" y1="69.5" x1="411" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_10" y2="72" x2="413" y1="70" x1="203" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_11" y2="419" x2="415" y1="418" x1="205" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_13" y2="185" x2="411" y1="185" x1="204" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_14" y2="301" x2="411.5" y1="301" x1="204.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_16" y2="186" x2="309" y1="72" x1="309" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_17" y2="416" x2="313" y1="303" x1="312" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <rect id="svg_18" height="14" width="248" y="240" x="187" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#3f3f3f"/>
+ </g>
+</svg>
